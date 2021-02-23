@@ -1,2 +1,1 @@
-# Projetos-no-R
-Projetos feito na linguagem R.
+# Modelos de machine learning no R
